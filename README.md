@@ -24,7 +24,7 @@
     
     -or-
     
-    run ```python3 timelinemaker.py``` by Command Line
+    run ```python3 timelinemaker.py``` in Command Line
     
     
 4. Check for result in "Event timeline.xlsx"
